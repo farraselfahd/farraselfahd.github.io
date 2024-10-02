@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['frsfahd/bookshelf-api-2','personal-notes-v2','frsfahd/go-disbot', 'frsfahd/go-urlshortener-v2', 'frsfahd/go-jsonP4rser', 'frsfahd/personal-blog', 'frsfahd/TechCon2022'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['frsfahd/bookshelf-api-2','frsfahd/personal-notes-v2','frsfahd/go-disbot', 'frsfahd/go-urlshortener-v2', 'frsfahd/go-jsonP4rser', 'frsfahd/personal-blog', 'frsfahd/TechCon2022'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
